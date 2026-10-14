@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nehagrwal.github.io/aquathrive-marine-mineral-complex-ireland/sitemap.xml
+Sitemap: https://aquathrive-marine-mineral-complex-ireland.vercel.app/sitemap-vercel.xml
+Sitemap: https://aquathrive-marine-mineral-complex-ireland.pages.dev/sitemap-cloudflare.xml
